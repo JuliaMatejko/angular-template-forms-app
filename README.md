@@ -1,4 +1,11 @@
 # AngularTemplateFormsApp
+![2](https://github.com/user-attachments/assets/23d8a63e-3672-4c1f-9dd2-23c9db7e3d3d)
+
+![1](https://github.com/user-attachments/assets/797a83c4-cc0e-44f6-b63b-144e84977ffd)
+
+![3](https://github.com/user-attachments/assets/22d74bef-3e3f-436b-8497-be420d65388e)
+
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
